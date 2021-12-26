@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Sayan Saha</h1>
+<h1 align="center">Bonjour 👋, I'm Sayan Saha</h1>
 <h3 align="center">An aspiring Data Scientist with a knack to explore and extract insights not visible to the normal eye</h3>
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
-- 👨‍💻 All of my projects are available at [shorturl.at/eEKLQ](shorturl.at/eEKLQ)
+- 🌐 I am Exploring Computer Vision and its domains. 
 
+- 👨‍💻 All of my projects are available at [shorturl.at/eEKLQ](shorturl.at/eEKLQ)
+ 
+- 💬 Ask me about Machine Learning  :) 
+- 
 - 📄 Have a look at my CV [shorturl.at/yAOW7](shorturl.at/yAOW7)
 
 - ⚡ Fun fact **I Love Game of Thrones and Anime**

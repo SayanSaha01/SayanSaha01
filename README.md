@@ -3,12 +3,12 @@
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
-- 🌐 I am Exploring Computer Vision and its domains. 
+- 🌐 I am doing Computer Vision and its domains. 
 
 - 👨‍💻 All of my projects are available at [shorturl.at/eEKLQ](shorturl.at/eEKLQ)
  
 - 💬 Ask me about Machine Learning  :) 
-- 
+
 - 📄 Have a look at my CV [shorturl.at/yAOW7](shorturl.at/yAOW7)
 
 - ⚡ Fun fact **I Love Game of Thrones and Anime**

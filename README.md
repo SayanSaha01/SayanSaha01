@@ -13,14 +13,6 @@
 
 - ⚡ Fun fact **I Love Game of Thrones and Anime**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eren_yeager" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eren_yeager" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sayan-saha001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-saha001" height="30" width="40" /></a>
-<a href="https://instagram.com/sayan_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan_shah" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sayan_shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sayan_shah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sayan_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayan_shah" height="30" width="40" /></a>
-</p>
 
 ### 🍁 My Skill stack :
 
@@ -43,11 +35,12 @@
 
 ### You can connect with me from _here_ 📧:
 [<img height=40 width=40 align="centre" alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:sahensha1600@gmail.com)
-[<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="https://image.flaticon.com/icons/png/128/145/145807.png">](https://www.linkedin.com/in/sayan-saha001/) 
-[<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="https://image.flaticon.com/icons/png/128/145/145812.png">](https://twitter.com/prieto_de_Maria) 
-[<img height=40 width=40 align="centre" alt="Visit my Facebook Profile" src="https://image.flaticon.com/icons/png/128/145/145802.png">](https://www.facebook.com/sayan_shah/) 
-[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="https://image.flaticon.com/icons/png/512/1057/1057248.png">](https://www.instagram.com/sayan_shah/)
+<a href="https://twitter.com/eren_yeager" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eren_yeager" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayan-saha001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-saha001" height="30" width="40" /></a>
+<a href="https://instagram.com/sayan_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan_shah" height="30" width="40" /></a> 
+[<img height=40 width=40 align="centre" alt="Visit my Facebook Profile" src="https://image.flaticon.com/icons/png/128/145/145802.png">](https://www.facebook.com/Sayan Shah/) 
 <br>
+<a href="https://www.hackerrank.com/sayan_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayan_shah" height="30" width="40" /></a>
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 ### <p align="center"> Welcome to the Batcave ! </p>

@@ -24,9 +24,9 @@
 | `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-AA2690?style=for-the-badge&logo=heroku&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayansaha01&show_icons=true&locale=en&layout=compact" alt="sayansaha01" /></p>
+<br>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayansaha01&show_icons=true&locale=en" alt="sayansaha01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayansaha01&show_icons=true&locale=en" alt="sayansaha01" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayansaha01&" alt="sayansaha01" /></p>

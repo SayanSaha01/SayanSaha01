@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, I'm Sayan Saha</h1>
+<h1 align="center">👋 Bonjour, moi Sayan Saha</h1>
 <h3 align="center">An aspiring Data Scientist with a knack to explore and extract insights not visible to the normal eye</h3>
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**

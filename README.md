@@ -9,7 +9,7 @@
  
 - 💬 Ask me about Machine Learning  :) 
 
-- 📄 Have a look at my CV [shorturl.at/yAOW7](shorturl.at/yAOW7)
+- 📄 Have a look at my CV [shorturl.at/qtyIY]
 
 - ⚡ Fun fact **I Love Game of Thrones and Anime**
 

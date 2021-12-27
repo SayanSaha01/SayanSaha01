@@ -34,12 +34,13 @@
 
 
 ### You can connect with me from _here_ 📧:
-[<img height=30 width=30 align="centre" alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:sahensha1600@gmail.com)
+[<img height=25 width=25 align="centre" alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:sahensha1600@gmail.com)
 <a href="https://twitter.com/eren_yeager" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eren_yeager" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayan-saha001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-saha001" height="30" width="40" /></a>
 <a href="https://fb.com/sayan saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan saha" height="30" width="40" /></a>
 <a href="https://instagram.com/sayan_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan_shah" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sayan_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayan_shah" height="30" width="40" /></a>
+<br>
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 ### <p align="center"> Welcome to the Batcave ! </p>

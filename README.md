@@ -28,15 +28,15 @@
 
 ![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayansaha01&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sayansaha01&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
 
+### Connect With Me💻
+<p align="left" align='right'>
+[<img height=40 width=40 align="centre" alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:joshithreddy.g@gmail.com)
+<a target="_blank"href="https://www.linkedin.com/in/sayan-saha001/"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>(mailto:sahensha1600@gmail.com)</a>
+<a target="_blank"href="https://www.linkedin.com/in/sayan-saha001/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank"href="https://twitter.com/prieto_de_Maria"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a target="_blank"href="https://www.instagram.com/sayan_shah/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a target="_blank"href="https://www.kaggle.com/sayansh001">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 
-
-### You can connect with me from _here_ 📧:
-[<img height=28 width=28 align="centre" alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:sahensha1600@gmail.com)
-<a href="https://twitter.com/eren_yeager" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eren_yeager" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sayan-saha001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-saha001" height="30" width="40" /></a>
-<a href="https://fb.com/sayan saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan saha" height="30" width="40" /></a>
-<a href="https://instagram.com/sayan_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan_shah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sayan_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayan_shah" height="30" width="40" /></a>
 <br>
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 

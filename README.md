@@ -31,7 +31,7 @@
 ### Connect With Me💻
 <p align="left" align='right'>
 [<img height=40 width=40 align="centre" alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:joshithreddy.g@gmail.com)
-<a target="_blank"href="https://www.linkedin.com/in/sayan-saha001/"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>(mailto:sahensha1600@gmail.com)</a>
+
 <a target="_blank"href="https://www.linkedin.com/in/sayan-saha001/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank"href="https://twitter.com/prieto_de_Maria"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a target="_blank"href="https://www.instagram.com/sayan_shah/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>

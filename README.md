@@ -9,7 +9,7 @@
  
 - 💬 Ask me about Machine Learning  :) 
 
-- 📄 Have a look at my CV  [shorturl.at/qtyIY](shorturl.at/qtyIY)
+- 📄 Feel Free to check out my CV  [shorturl.at/qtyIY](shorturl.at/qtyIY)
 
 - 📄 Have a look at my blogs https://medium.com/me/stories/public
 

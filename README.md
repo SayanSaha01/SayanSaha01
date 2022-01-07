@@ -11,7 +11,7 @@
 
 - 📄 Feel Free to check out my CV  [shorturl.at/qtyIY](shorturl.at/qtyIY)
 
-- 📄 Giving it backto the community :') https://medium.com/me/stories/public
+- 📄 Giving it back to the community :') https://medium.com/me/stories/public
 
 - ⚡ Fun fact **I Love Game of Thrones and Anime**
 

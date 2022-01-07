@@ -11,6 +11,8 @@
 
 - 📄 Have a look at my CV  [shorturl.at/qtyIY](shorturl.at/qtyIY)
 
+- 📄 Have a look at my blogs https://medium.com/me/stories/public
+
 - ⚡ Fun fact **I Love Game of Thrones and Anime**
 
 

@@ -29,7 +29,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayansaha01&show_icons=true&locale=en&layout=compact" alt="sayansaha01" /></p>
 <br>
 
-![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayansaha01&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sayansaha01&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
+<br/>
+<p align="left">
+  <a href="https://sayansaha.me/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SayanSaha01&show_icons=true&theme=gruvbox&hide_border=true&&include_all_commits=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SayanSaha01&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=sayan_shah&theme=forest&font=Georgia)
 

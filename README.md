@@ -31,6 +31,8 @@
 
 ![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayansaha01&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sayansaha01&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=sayan_shah&theme=forest&font=Georgia)
+
 ### Connect With Me💻
 <p align="left" align='right'>
 <a target="_blank"href="https://medium.com/me/stories/public"> <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>

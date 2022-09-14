@@ -48,7 +48,7 @@
 <a target="_blank"href="https://twitter.com/prieto_de_Maria"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a target="_blank"href="https://www.instagram.com/sayan_shah/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a target="_blank"href="https://www.kaggle.com/sayansh001">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-<a target="_blank"href="https://leetcode.com/sayan_shah/"> <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a target="_blank"href="https://leetcode.com/Saintly_Sinner/"> <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 
 <br>
 

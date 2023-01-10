@@ -22,6 +22,17 @@
 </div>
 <!-- <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanSaha01&theme=radical&title_color=F16707&hide_border=true" width="290px" data-canonical-></span> -->
 
+<br/>
+<p align="left">
+  <a href="https://sayansaha.me/">
+  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=SayanSaha01&show_icons=true&theme=gruvbox&hide_border=true&&include_all_commits=true" />
+  <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SayanSaha01&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Saintly_Sinner&theme=forest&font=Georgia)
+
 ### 🍁 My Skill stack :
 
 |               |           |
@@ -33,17 +44,6 @@
 | `Others`       | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)|
 
 <br>
-
-<br/>
-<p align="left">
-  <a href="https://sayansaha.me/">
-  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=SayanSaha01&show_icons=true&theme=gruvbox&hide_border=true&&include_all_commits=true" />
-  <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SayanSaha01&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Saintly_Sinner&theme=forest&font=Georgia)
 
 ### Connect With Me💻
 <p align="left" align='right'>
